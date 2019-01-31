@@ -1,0 +1,54 @@
+
+1. JSP & Servlet + Hibernate: A complete guide | Udemy	https://www.udemy.com/jsp-servlet-free-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Rma3yGsJyBieTmdhyS9AQA&LSNPUBID=JVFxdTr9V80
+
+2. Collections in Java - Tutorial - JournalDev			https://www.journaldev.com/1260/collections-in-java-tutorial?utm_source=newsletter&utm_medium=sendy&utm_campaign=emails#list-interface
+
+3. Top 5 Selenium + Cucumber Online Courses for Java Developers and Automation Testing Programmers	https://javarevisited.blogspot.com/2018/02/top-5-selenium-webdriver-with-java-courses-for-testers.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed:+Javarevisited+(javarevisited)
+
+4. 3 Ways to Solve jQuery - Uncaught ReferenceError: $ is not defined Error		https://javarevisited.blogspot.com/2016/04/3-ways-to-solve-jquery-uncaught-reference-error-is-not-defined.html
+
+5. What is purpose of different HTTP Request Types in RESTful Web Service?	https://javarevisited.blogspot.com/2016/04/what-is-purpose-of-http-request-types-in-RESTful-web-service.html
+
+6.! Difference between POST and GET Request in HTTP Protocol | Java67		http://www.java67.com/2014/08/difference-between-post-and-get-request.html
+
+7. How to find highest repeating word from a text File in Java - Word Count Problem | Java67	http://www.java67.com/2015/10/java-program-to-find-repeated-words-and-count.html#at_pco=smlwn-1.0&at_si=5c488a93162f920c&at_ab=per-2&at_pos=0&at_tot=1
+
+8. How to count a number of words in given String in Java? | Java67			http://www.java67.com/2016/06/how-to-count-number-of-words-in-given-String.html#at_pco=smlwn-1.0&at_si=5c488ab495926a4e&at_ab=per-2&at_pos=0&at_tot=1
+
+Difference between Heap and Stack Memory in Java JVM | Java67				http://www.java67.com/2016/10/difference-between-heap-and-stack-memory-in-java-JVM.html#at_pco=smlwn-1.0&at_si=5c48937189f82235&at_ab=per-2&at_pos=0&at_tot=1
+
+What is the use of DispatcherServlet in Spring MVC? Interview Question | Java67		http://www.java67.com/2017/06/what-is-use-of-dispatcherservlet-in-spring-mvc.html#at_pco=smlwn-1.0&at_si=5c4898237c23d249&at_ab=per-2&at_pos=0&at_tot=1
+
+5 Free Servlet, JSP, and JDBC Online Courses for Advanced Java Developers | Java67		http://www.java67.com/2018/02/5-free-servlet-jsp-and-jdbc-online-courses-for-java-developers.html#at_pco=smlwn-1.0&at_si=5c48983ecf3d9a08&at_ab=per-2&at_pos=0&at_tot=1
+
+Difference between Static and Dynamic Binding in Java | Java67					http://www.java67.com/2014/02/difference-between-static-and-dynamic.html#at_pco=smlwn-1.0&at_si=5c489850d0a5b27b&at_ab=per-2&at_pos=0&at_tot=1
+
+Difference between wait() and join method in Java thread | Java67				http://www.java67.com/2017/11/difference-between-wait-and-join-method-of-thread-java.html#at_pco=smlwn-1.0&at_si=5c489874381bb04d&at_ab=per-2&at_pos=0&at_tot=1
+
+How to Use Locks in Multi-threaded Java Program						https://javarevisited.blogspot.com/2014/10/how-to-use-locks-in-multi-threaded-java-program-example.html#at_pco=smlwn-1.0&at_si=5c4888f79bdf8133&at_ab=per-2&at_pos=0&at_tot=1
+
+Why JPA Entity or Hibernate Persistence Class Should Not be Final?			https://javarevisited.blogspot.com/2016/01/why-jpa-entity-or-hibernate-persistence-should-not-be-final-in-java.html#at_pco=smlwn-1.0&at_si=5c4881201ab1a8e3&at_ab=per-2&at_pos=0&at_tot=1
+
+How to enable/disable an element using jQuery and JavaScript? Example			https://javarevisited.blogspot.com/2017/08/how-to-enable-disable-element-using-jQuery-JavaScript-example.html
+
+10 Object Oriented Design Principles Java Programmer Should Learn in 2019			https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html
+
+How to Swap Two Numbers Without Temp or Third Variable in Java - Interview Question		https://javarevisited.blogspot.com/2013/02/swap-two-numbers-without-third-temp-variable-java-program-example-tutorial.html#at_pco=smlwn-1.0&at_si=5c482a2cf5d0d26b&at_ab=per-2&at_pos=0&at_tot=1
+
+Difference between Dependency Injection and Factory Design Pattern in Java Spring		https://javarevisited.blogspot.com/2015/06/difference-between-dependency-injection.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed:+Javarevisited+(javarevisited)
+
+What is a Functional interface in Java 8? @Functional Annotation and Examples			https://javarevisited.blogspot.com/2018/01/what-is-functional-interface-in-java-8.html#at_pco=smlwn-1.0&at_si=5c482a338cf95524&at_ab=per-2&at_pos=0&at_tot=1
+
+What is UI Automator | UI Automator Tutorial Video | Simplilearn - YouTube			https://www.youtube.com/watch?v=eKL5V3A2rj8
+
+Spring Annotations - DZone - Refcardz								https://dzone.com/refcardz/spring-annotations?chapter=2
+
+Java API Best Practices - DZone - Refcardz							https://dzone.com/refcardz/java-api-best-practices?chapter=14
+
+w_kale03.pdf
+
+
+
+
+
+
